@@ -1,11 +1,11 @@
-# 📊 Financial Performance Report — Power BI
+# Financial Performance Report — Power BI
 
 > An interactive dashboard analysing sales, profit, and market performance
 > across products, segments, and countries for **2013–2014**.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 financial-report-powerbi/
@@ -16,7 +16,7 @@ financial-report-powerbi/
 
 ---
 
-## 🗂️ About the Report
+## About the Report
 
 This Power BI report was built using the **New Executive** theme and provides a single-page interactive dashboard with the following visuals:
 
@@ -27,7 +27,7 @@ This Power BI report was built using the **New Executive** theme and provides a 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Source file:** `Financial_Sample.xlsx`
 
@@ -43,7 +43,7 @@ This Power BI report was built using the **New Executive** theme and provides a 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 2. Clone this repository
@@ -57,7 +57,7 @@ This Power BI report was built using the **New Executive** theme and provides a 
 
 ---
 
-## 👤 Author
+## Author
 
 **Akter Hosen**
 M.Sc. Applied Mathematics for Network and Data Sciences — Hochschule Mittweida, Germany
@@ -67,7 +67,7 @@ M.Sc. Applied Mathematics for Network and Data Sciences — Hochschule Mittweida
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational and portfolio purposes.
 The dataset is the [Microsoft Power BI Financial Sample](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download), provided by Microsoft.
