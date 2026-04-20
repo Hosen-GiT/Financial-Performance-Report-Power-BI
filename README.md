@@ -39,7 +39,7 @@ Investigate Mexico and the USA — these markets show lower profit contribution 
 Grow Small Business and Channel Partner segments — both show potential but remain well below Government segment performance
 
 
-🛠️ Tech Stack
+Tech Stack
 
 Tool: Power BI Desktop
 Theme: New Executive
